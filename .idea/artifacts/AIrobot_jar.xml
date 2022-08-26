@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AIrobot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AIrobot_jar</output-path>
+    <root id="archive" name="AIrobot.jar">
+      <element id="module-output" name="AIrobot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gson-2.6.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
