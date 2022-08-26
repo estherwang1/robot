@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AIrobot:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1985b40-049f-4d71-ba57-11d87d8490ae" name="Default Changelist" comment="Default Changelist">
+    <list default="true" id="f1985b40-049f-4d71-ba57-11d87d8490ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIrobot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AIrobot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/RequestClazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/ResponceClazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/QkyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/QkyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/RobotService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/RobotService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/HttpUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +53,30 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/gson-2.6.2.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="AIrobot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
@@ -62,8 +94,17 @@
       <workItem from="1661175872752" duration="2223000" />
       <workItem from="1661178108605" duration="372000" />
       <workItem from="1661331549481" duration="194000" />
-      <workItem from="1661331930072" duration="829000" />
+      <workItem from="1661331930072" duration="4326000" />
+      <workItem from="1661476529858" duration="948000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1661332799745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661332799746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,17 +130,45 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1661415428629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1661415428629" />
+    <state x="455" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1661477294669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1661477294669" />
     <state x="555" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1661332724513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="555" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1661332724513" />
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1661332796769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1661332796769" />
     <state x="399" y="104" key="FileChooserDialogImpl" timestamp="1661332774622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="399" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1661332774622" />
-    <state x="205" y="0" key="SettingsEditor" timestamp="1661332778605">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1661477490176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="205" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1661332778605" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1661477490176" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1661477490176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1661477490176" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1661477490175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1661477490175" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1661477490176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1661477490176" />
+    <state x="205" y="0" key="SettingsEditor" timestamp="1661477360912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="205" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1661477360912" />
   </component>
 </project>

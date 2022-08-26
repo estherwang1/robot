@@ -1,6 +1,6 @@
 package model;
-//将网络响应参数封装成类ResponceClazz
-public class ResponceClazz {
+//将网络响应参数封装成类
+public class Response {
 
     private int code;
 

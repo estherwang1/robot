@@ -9,7 +9,7 @@ import java.net.*;
 
 public class HttpUtils {
 
-    public static String requestUtil(String api) throws IOException {
+    public static String request(String api){
         HttpURLConnection connection = null;
         int responseCode = 0;
 

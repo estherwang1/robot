@@ -1,6 +1,6 @@
 package model;
-//将传参参数封装成类RequestClazz
-public class RequestClazz {
+//将传参参数封装成类Request
+public class Request {
 
     private String key = "";
 
@@ -9,9 +9,9 @@ public class RequestClazz {
     private String msg = "";
 
     //重写构造函数
-    public RequestClazz(){}
+    public Request(){}
 
-    public RequestClazz(String msg)
+    public Request(String msg)
     {
         this.msg = msg;
     }

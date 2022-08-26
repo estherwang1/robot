@@ -1,12 +1,9 @@
 package service;
 
-//import model.ResponceClazz;
-
-import javax.xml.ws.Response;
-import java.io.IOException;
+import model.Response;
 
 public interface RobotService {
 
-    Response qa(String msg) throws IOException;//qa:question and answer
+    Response qa(String msg);//qa:question and answer
 
 }
